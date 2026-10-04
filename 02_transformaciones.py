@@ -1,4 +1,4 @@
-print("HOLA MUNDO!")
+from pyspark.sql import SparkSession
 from pyspark.sql import SparkSession
 import os 
 from pyspark.sql.functions import col,trim,initcap, to_date 
