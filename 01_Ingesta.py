@@ -3,7 +3,7 @@ import random
 import os 
 from datetime import datetime,timedelta
 
-os.makedirs("Data-Lakehouse-Big-Data/data/raw", exist_ok=True) 
+os.makedirs("Data-Lakehouse-Big-Data/data/bronze", exist_ok=True) 
 #Crea la carpeta Raw en caso de que no exista,
 #si existe no da error al tener el "exist_ok=True"
 
@@ -30,6 +30,6 @@ df = pd.concat([df, df.head(10)])
 #Pega las primeras 10 filas al final para generar duplicados simulando df = DataFrame
 # errores posibles
 
-df.to_csv("Data-Lakehouse-Big-Data/data/raw/ventas.csv", index=False) #Index = False evita añadir columna extra con los numero de fila
+df.to_csv("Data-Lakehouse-Big-Data/data/bronze/ventas.csv", index=False) #Index = False evita añadir columna extra con los numero de fila
 
 print("Datos en bruto guardados:", len(df), "filas")

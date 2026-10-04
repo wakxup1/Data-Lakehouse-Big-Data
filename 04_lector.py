@@ -6,7 +6,7 @@ spark = SparkSession.builder.appName("LectorParquet").getOrCreate()
 
 # 2. Leer y mostrar los datos de la Zona Silver (Datos limpios)
 print("--- ZONA SILVER: Primeras 10 filas de ventas procesadas ---")
-df_silver = spark.read.parquet("Data-Lakehouse-Big-Data/data/processed/ventas")
+df_silver = spark.read.parquet("Data-Lakehouse-Big-Data/data/silver/ventas")
 df_silver.show(10)
 
 # 3. Leer y mostrar los datos de la Zona Gold (Modelo final)

@@ -1,0 +1,511 @@
+id_ventas,fecha,producto,ciudad,cantidad,precio_unitario
+1,22-02-2026,Monitor,Santiago,1.0,600000
+2,16-05-2026,Monitor,santiago ,4.0,40000
+3,26-03-2026,Audifonos,,4.0,40000
+4,06-05-2026,Monitor,santiago ,,40000
+5,27-06-2026,Teclado,,2.0,250000
+6,29-06-2026,Mouse,Santiago,4.0,15000
+7,04-01-2026,Audifonos,Valparaíso,,600000
+8,16-03-2026,Laptop,Concepción,,40000
+9,10-07-2026,Laptop,Valparaíso,2.0,250000
+10,30-04-2026,Monitor,Concepción,1.0,15000
+11,01-05-2026,Laptop,Valparaíso,2.0,40000
+12,26-02-2026,Mouse,Concepción,,250000
+13,17-04-2026,Laptop,santiago ,,250000
+14,31-05-2026,Laptop,Santiago,3.0,250000
+15,09-02-2026,Mouse,santiago ,3.0,40000
+16,16-03-2026,Audifonos,Santiago,4.0,15000
+17,29-06-2026,Audifonos,,1.0,600000
+18,20-04-2026,Teclado,,2.0,25000
+19,04-01-2026,Monitor,Santiago,4.0,600000
+20,08-02-2026,Teclado,Santiago,1.0,15000
+21,05-07-2026,Monitor,santiago ,1.0,250000
+22,15-04-2026,Audifonos,Concepción,1.0,25000
+23,27-06-2026,Laptop,Valparaíso,2.0,15000
+24,31-03-2026,Mouse,Valparaíso,1.0,25000
+25,10-06-2026,Monitor,Santiago,3.0,250000
+26,13-02-2026,Audifonos,santiago ,1.0,15000
+27,15-07-2026,Monitor,,1.0,40000
+28,11-05-2026,Audifonos,,2.0,250000
+29,07-07-2026,Mouse,santiago ,,250000
+30,26-05-2026,Laptop,santiago ,3.0,15000
+31,01-06-2026,Audifonos,Concepción,3.0,600000
+32,10-03-2026,Monitor,Valparaíso,3.0,250000
+33,03-02-2026,Monitor,santiago ,,25000
+34,28-02-2026,Teclado,Concepción,,25000
+35,24-04-2026,Teclado,,3.0,15000
+36,06-05-2026,Laptop,Santiago,,15000
+37,27-03-2026,Mouse,santiago ,,40000
+38,23-03-2026,Monitor,Concepción,3.0,250000
+39,11-04-2026,Laptop,Valparaíso,,40000
+40,09-04-2026,Audifonos,,,600000
+41,12-01-2026,Audifonos,santiago ,,15000
+42,30-06-2026,Mouse,Concepción,1.0,40000
+43,24-04-2026,Laptop,,4.0,25000
+44,12-06-2026,Mouse,Valparaíso,3.0,250000
+45,03-01-2026,Mouse,Santiago,1.0,40000
+46,26-06-2026,Monitor,Concepción,4.0,250000
+47,24-05-2026,Audifonos,,4.0,40000
+48,09-03-2026,Monitor,,1.0,600000
+49,20-06-2026,Monitor,Valparaíso,4.0,25000
+50,26-02-2026,Teclado,,2.0,600000
+51,24-06-2026,Audifonos,santiago ,4.0,15000
+52,22-04-2026,Monitor,santiago ,1.0,600000
+53,25-06-2026,Monitor,santiago ,4.0,40000
+54,26-01-2026,Teclado,Santiago,3.0,40000
+55,29-03-2026,Laptop,Valparaíso,2.0,600000
+56,12-06-2026,Monitor,Concepción,3.0,25000
+57,31-05-2026,Monitor,Concepción,3.0,250000
+58,22-04-2026,Laptop,,4.0,40000
+59,21-01-2026,Audifonos,Concepción,3.0,250000
+60,06-07-2026,Monitor,Valparaíso,1.0,40000
+61,10-07-2026,Laptop,,4.0,250000
+62,23-03-2026,Teclado,,,40000
+63,01-04-2026,Laptop,Santiago,4.0,40000
+64,26-05-2026,Mouse,,4.0,25000
+65,08-05-2026,Laptop,,2.0,40000
+66,11-05-2026,Audifonos,,,40000
+67,17-02-2026,Monitor,Santiago,4.0,600000
+68,21-03-2026,Audifonos,santiago ,2.0,15000
+69,03-07-2026,Laptop,santiago ,1.0,250000
+70,02-04-2026,Laptop,Valparaíso,2.0,250000
+71,08-05-2026,Teclado,,3.0,15000
+72,31-01-2026,Audifonos,Santiago,4.0,600000
+73,29-06-2026,Monitor,santiago ,4.0,15000
+74,08-02-2026,Laptop,,1.0,600000
+75,22-01-2026,Laptop,santiago ,1.0,40000
+76,05-03-2026,Laptop,Concepción,2.0,25000
+77,01-02-2026,Monitor,,2.0,600000
+78,21-02-2026,Audifonos,santiago ,,25000
+79,19-03-2026,Laptop,Santiago,4.0,250000
+80,29-03-2026,Mouse,santiago ,4.0,15000
+81,16-02-2026,Audifonos,Concepción,3.0,250000
+82,28-06-2026,Monitor,Valparaíso,4.0,25000
+83,05-05-2026,Audifonos,Valparaíso,4.0,15000
+84,09-05-2026,Audifonos,Concepción,3.0,600000
+85,19-01-2026,Monitor,,4.0,40000
+86,25-01-2026,Monitor,Concepción,,600000
+87,23-04-2026,Teclado,Valparaíso,1.0,25000
+88,18-07-2026,Monitor,Valparaíso,2.0,25000
+89,22-06-2026,Laptop,santiago ,4.0,25000
+90,26-06-2026,Audifonos,Valparaíso,,250000
+91,21-03-2026,Monitor,Concepción,3.0,15000
+92,21-06-2026,Monitor,,,25000
+93,04-04-2026,Mouse,Santiago,3.0,25000
+94,02-07-2026,Laptop,,,40000
+95,14-02-2026,Audifonos,Santiago,,40000
+96,05-05-2026,Teclado,santiago ,1.0,40000
+97,06-05-2026,Monitor,,2.0,40000
+98,02-01-2026,Audifonos,santiago ,2.0,15000
+99,27-03-2026,Mouse,Concepción,2.0,40000
+100,06-05-2026,Laptop,Valparaíso,,15000
+101,30-01-2026,Audifonos,Concepción,1.0,15000
+102,23-05-2026,Mouse,santiago ,,250000
+103,07-02-2026,Teclado,Valparaíso,3.0,40000
+104,14-03-2026,Audifonos,,1.0,25000
+105,30-04-2026,Audifonos,Santiago,4.0,15000
+106,25-03-2026,Laptop,Valparaíso,3.0,600000
+107,16-07-2026,Audifonos,Concepción,1.0,250000
+108,02-04-2026,Teclado,,3.0,25000
+109,24-01-2026,Teclado,Santiago,3.0,250000
+110,11-02-2026,Audifonos,,2.0,25000
+111,26-02-2026,Mouse,Santiago,3.0,600000
+112,01-07-2026,Mouse,Concepción,,40000
+113,27-04-2026,Laptop,Valparaíso,2.0,25000
+114,11-07-2026,Teclado,Santiago,,250000
+115,20-04-2026,Laptop,Valparaíso,2.0,40000
+116,29-01-2026,Mouse,Valparaíso,1.0,600000
+117,28-04-2026,Mouse,,,250000
+118,22-01-2026,Mouse,santiago ,,250000
+119,28-03-2026,Teclado,Santiago,,40000
+120,23-01-2026,Audifonos,Santiago,,600000
+121,12-03-2026,Audifonos,Santiago,,600000
+122,10-01-2026,Teclado,Santiago,,40000
+123,04-06-2026,Monitor,santiago ,1.0,250000
+124,07-06-2026,Teclado,Santiago,3.0,250000
+125,05-07-2026,Audifonos,Valparaíso,4.0,600000
+126,09-01-2026,Audifonos,,1.0,600000
+127,15-06-2026,Teclado,Valparaíso,4.0,15000
+128,01-01-2026,Teclado,,,40000
+129,14-07-2026,Monitor,santiago ,3.0,15000
+130,15-07-2026,Audifonos,Santiago,4.0,600000
+131,28-02-2026,Laptop,Concepción,1.0,15000
+132,01-04-2026,Teclado,Concepción,1.0,600000
+133,20-06-2026,Monitor,Concepción,2.0,15000
+134,25-04-2026,Laptop,Concepción,2.0,25000
+135,25-05-2026,Audifonos,Concepción,3.0,15000
+136,20-07-2026,Teclado,Santiago,3.0,15000
+137,06-07-2026,Monitor,santiago ,1.0,250000
+138,18-06-2026,Monitor,Concepción,2.0,25000
+139,11-03-2026,Laptop,,4.0,40000
+140,23-03-2026,Teclado,,4.0,250000
+141,27-03-2026,Audifonos,Santiago,1.0,250000
+142,07-02-2026,Mouse,,4.0,250000
+143,19-04-2026,Mouse,santiago ,,15000
+144,12-05-2026,Mouse,Concepción,,600000
+145,21-01-2026,Teclado,,1.0,40000
+146,04-02-2026,Audifonos,santiago ,1.0,15000
+147,14-02-2026,Audifonos,Concepción,2.0,250000
+148,09-07-2026,Audifonos,Concepción,4.0,600000
+149,04-01-2026,Audifonos,,2.0,25000
+150,07-07-2026,Laptop,Santiago,2.0,250000
+151,27-04-2026,Monitor,Valparaíso,2.0,40000
+152,07-02-2026,Laptop,santiago ,2.0,250000
+153,18-04-2026,Monitor,Santiago,4.0,25000
+154,15-01-2026,Laptop,santiago ,3.0,40000
+155,16-01-2026,Audifonos,Valparaíso,3.0,600000
+156,25-03-2026,Teclado,santiago ,3.0,250000
+157,11-07-2026,Mouse,Valparaíso,1.0,40000
+158,14-01-2026,Laptop,Santiago,3.0,250000
+159,06-02-2026,Laptop,Santiago,3.0,600000
+160,14-02-2026,Mouse,santiago ,3.0,600000
+161,21-01-2026,Monitor,,1.0,15000
+162,18-06-2026,Teclado,,4.0,40000
+163,29-05-2026,Monitor,Santiago,2.0,600000
+164,15-03-2026,Audifonos,Concepción,3.0,250000
+165,26-03-2026,Mouse,,2.0,250000
+166,21-04-2026,Audifonos,santiago ,4.0,15000
+167,03-04-2026,Laptop,Concepción,3.0,15000
+168,08-06-2026,Mouse,,4.0,250000
+169,11-01-2026,Mouse,Valparaíso,1.0,250000
+170,15-05-2026,Teclado,Concepción,4.0,600000
+171,18-03-2026,Monitor,Santiago,2.0,15000
+172,12-04-2026,Audifonos,Santiago,4.0,250000
+173,03-01-2026,Monitor,Valparaíso,3.0,25000
+174,23-02-2026,Teclado,,2.0,25000
+175,29-01-2026,Monitor,,4.0,40000
+176,01-07-2026,Laptop,Santiago,4.0,25000
+177,05-06-2026,Audifonos,Valparaíso,3.0,600000
+178,17-01-2026,Teclado,,3.0,40000
+179,12-05-2026,Monitor,Concepción,2.0,600000
+180,19-03-2026,Mouse,,1.0,250000
+181,09-03-2026,Monitor,santiago ,2.0,15000
+182,26-06-2026,Teclado,Santiago,3.0,600000
+183,17-06-2026,Mouse,,3.0,25000
+184,09-05-2026,Audifonos,Concepción,1.0,600000
+185,18-07-2026,Teclado,Santiago,,25000
+186,09-07-2026,Teclado,Santiago,4.0,40000
+187,07-06-2026,Audifonos,santiago ,4.0,40000
+188,24-03-2026,Monitor,Concepción,2.0,25000
+189,12-01-2026,Teclado,santiago ,,25000
+190,10-04-2026,Monitor,Concepción,1.0,250000
+191,15-05-2026,Laptop,,,15000
+192,14-04-2026,Monitor,,3.0,250000
+193,26-02-2026,Monitor,Valparaíso,1.0,25000
+194,15-02-2026,Audifonos,,,15000
+195,22-04-2026,Teclado,Concepción,,25000
+196,13-03-2026,Teclado,santiago ,2.0,40000
+197,16-06-2026,Teclado,santiago ,4.0,250000
+198,24-03-2026,Laptop,Valparaíso,,15000
+199,18-05-2026,Monitor,santiago ,,40000
+200,15-06-2026,Monitor,,3.0,600000
+201,03-04-2026,Audifonos,Santiago,4.0,250000
+202,01-07-2026,Audifonos,Santiago,1.0,40000
+203,06-03-2026,Monitor,Valparaíso,4.0,40000
+204,06-05-2026,Monitor,santiago ,2.0,250000
+205,01-02-2026,Mouse,Concepción,3.0,15000
+206,16-03-2026,Laptop,Valparaíso,,25000
+207,21-02-2026,Monitor,Valparaíso,4.0,250000
+208,01-05-2026,Teclado,Santiago,1.0,250000
+209,30-01-2026,Monitor,Valparaíso,2.0,25000
+210,25-01-2026,Laptop,Concepción,1.0,25000
+211,22-03-2026,Monitor,santiago ,4.0,25000
+212,08-04-2026,Laptop,,3.0,25000
+213,13-06-2026,Laptop,santiago ,2.0,15000
+214,29-01-2026,Laptop,santiago ,4.0,40000
+215,14-07-2026,Monitor,Santiago,2.0,40000
+216,28-02-2026,Mouse,Valparaíso,3.0,15000
+217,20-04-2026,Laptop,Concepción,2.0,15000
+218,20-04-2026,Mouse,Valparaíso,,25000
+219,28-04-2026,Monitor,santiago ,,25000
+220,22-05-2026,Laptop,Santiago,4.0,600000
+221,02-07-2026,Monitor,Santiago,1.0,600000
+222,30-06-2026,Monitor,Valparaíso,1.0,40000
+223,18-07-2026,Mouse,Concepción,1.0,250000
+224,18-04-2026,Audifonos,,,15000
+225,19-06-2026,Laptop,Santiago,1.0,250000
+226,30-06-2026,Mouse,Valparaíso,,600000
+227,20-03-2026,Monitor,Valparaíso,,25000
+228,12-05-2026,Teclado,Concepción,4.0,600000
+229,07-03-2026,Teclado,Valparaíso,2.0,250000
+230,13-03-2026,Monitor,Concepción,1.0,250000
+231,18-06-2026,Laptop,Concepción,3.0,25000
+232,23-05-2026,Mouse,,3.0,40000
+233,24-06-2026,Monitor,santiago ,3.0,250000
+234,20-03-2026,Audifonos,Santiago,1.0,250000
+235,10-04-2026,Teclado,Valparaíso,2.0,15000
+236,03-03-2026,Audifonos,,,250000
+237,19-04-2026,Teclado,Santiago,,40000
+238,21-05-2026,Audifonos,santiago ,,600000
+239,21-06-2026,Monitor,santiago ,3.0,40000
+240,02-01-2026,Monitor,,1.0,40000
+241,05-02-2026,Mouse,Santiago,1.0,15000
+242,02-04-2026,Teclado,Concepción,2.0,25000
+243,15-01-2026,Audifonos,Santiago,3.0,25000
+244,22-03-2026,Audifonos,Concepción,4.0,15000
+245,06-06-2026,Audifonos,santiago ,1.0,25000
+246,10-03-2026,Laptop,,1.0,600000
+247,15-07-2026,Laptop,Santiago,4.0,250000
+248,26-06-2026,Teclado,Concepción,,40000
+249,26-03-2026,Monitor,,4.0,25000
+250,14-03-2026,Teclado,Valparaíso,3.0,250000
+251,18-01-2026,Monitor,Valparaíso,4.0,25000
+252,17-04-2026,Mouse,santiago ,,40000
+253,01-07-2026,Teclado,Santiago,,15000
+254,16-07-2026,Mouse,Valparaíso,4.0,40000
+255,07-03-2026,Teclado,Valparaíso,1.0,15000
+256,07-07-2026,Mouse,Santiago,2.0,15000
+257,06-05-2026,Laptop,santiago ,3.0,15000
+258,13-06-2026,Laptop,Valparaíso,3.0,15000
+259,05-03-2026,Teclado,Concepción,3.0,250000
+260,10-07-2026,Mouse,Concepción,4.0,25000
+261,28-03-2026,Teclado,santiago ,1.0,600000
+262,22-01-2026,Audifonos,santiago ,2.0,40000
+263,24-04-2026,Audifonos,Concepción,2.0,15000
+264,13-02-2026,Audifonos,Valparaíso,4.0,40000
+265,15-01-2026,Teclado,santiago ,,25000
+266,04-06-2026,Laptop,Valparaíso,2.0,40000
+267,28-06-2026,Mouse,Valparaíso,1.0,600000
+268,04-01-2026,Mouse,Valparaíso,4.0,600000
+269,07-01-2026,Monitor,,1.0,25000
+270,20-06-2026,Laptop,Santiago,4.0,600000
+271,16-03-2026,Monitor,Santiago,1.0,15000
+272,09-02-2026,Laptop,Valparaíso,4.0,40000
+273,16-06-2026,Audifonos,Santiago,,600000
+274,16-05-2026,Audifonos,santiago ,2.0,250000
+275,07-01-2026,Mouse,Valparaíso,1.0,15000
+276,30-04-2026,Monitor,Valparaíso,1.0,40000
+277,27-04-2026,Teclado,santiago ,2.0,25000
+278,18-03-2026,Laptop,,2.0,40000
+279,02-04-2026,Laptop,Valparaíso,3.0,25000
+280,10-05-2026,Mouse,Valparaíso,,250000
+281,03-03-2026,Laptop,Valparaíso,1.0,25000
+282,05-04-2026,Laptop,Santiago,,25000
+283,27-04-2026,Laptop,Valparaíso,2.0,250000
+284,30-04-2026,Monitor,santiago ,2.0,25000
+285,07-02-2026,Monitor,Valparaíso,,15000
+286,15-06-2026,Laptop,,1.0,15000
+287,16-02-2026,Laptop,,4.0,250000
+288,05-02-2026,Monitor,Concepción,,15000
+289,12-03-2026,Monitor,santiago ,3.0,15000
+290,08-03-2026,Monitor,,2.0,40000
+291,30-01-2026,Laptop,Concepción,3.0,15000
+292,16-05-2026,Monitor,,1.0,15000
+293,22-06-2026,Teclado,santiago ,,250000
+294,23-02-2026,Mouse,Santiago,3.0,250000
+295,03-02-2026,Laptop,Santiago,3.0,600000
+296,23-05-2026,Audifonos,Santiago,2.0,40000
+297,23-06-2026,Laptop,Valparaíso,,40000
+298,26-03-2026,Monitor,santiago ,,25000
+299,26-02-2026,Monitor,Santiago,3.0,15000
+300,25-04-2026,Monitor,,1.0,600000
+301,07-05-2026,Monitor,santiago ,4.0,250000
+302,26-04-2026,Audifonos,santiago ,,15000
+303,03-07-2026,Teclado,Valparaíso,3.0,15000
+304,14-07-2026,Monitor,,3.0,250000
+305,24-02-2026,Monitor,,1.0,25000
+306,21-04-2026,Teclado,santiago ,,25000
+307,05-01-2026,Laptop,Santiago,4.0,250000
+308,30-06-2026,Laptop,,2.0,40000
+309,09-06-2026,Laptop,,4.0,40000
+310,29-05-2026,Mouse,Valparaíso,1.0,25000
+311,28-03-2026,Audifonos,,3.0,40000
+312,24-02-2026,Audifonos,Santiago,,40000
+313,06-03-2026,Teclado,santiago ,1.0,25000
+314,08-01-2026,Laptop,Valparaíso,4.0,25000
+315,13-02-2026,Audifonos,Santiago,4.0,25000
+316,16-06-2026,Teclado,Santiago,3.0,15000
+317,14-07-2026,Teclado,Concepción,,40000
+318,23-06-2026,Audifonos,Santiago,4.0,250000
+319,25-05-2026,Audifonos,Santiago,3.0,15000
+320,04-01-2026,Mouse,santiago ,3.0,40000
+321,05-05-2026,Laptop,santiago ,,250000
+322,06-06-2026,Laptop,santiago ,,250000
+323,19-01-2026,Mouse,santiago ,1.0,600000
+324,11-01-2026,Teclado,Concepción,4.0,15000
+325,25-05-2026,Monitor,santiago ,3.0,600000
+326,16-03-2026,Monitor,Concepción,1.0,15000
+327,11-06-2026,Monitor,,4.0,40000
+328,25-02-2026,Monitor,Concepción,3.0,600000
+329,14-01-2026,Monitor,santiago ,3.0,250000
+330,07-05-2026,Monitor,Santiago,,25000
+331,18-02-2026,Teclado,Santiago,2.0,250000
+332,16-07-2026,Laptop,santiago ,,15000
+333,12-03-2026,Monitor,santiago ,,15000
+334,08-02-2026,Audifonos,santiago ,2.0,15000
+335,15-06-2026,Mouse,Valparaíso,4.0,40000
+336,25-03-2026,Mouse,Concepción,,25000
+337,09-01-2026,Teclado,Santiago,3.0,250000
+338,07-04-2026,Monitor,,1.0,250000
+339,08-05-2026,Laptop,Concepción,1.0,40000
+340,07-04-2026,Monitor,,,15000
+341,27-06-2026,Audifonos,santiago ,4.0,40000
+342,06-07-2026,Mouse,Valparaíso,3.0,250000
+343,14-03-2026,Mouse,Valparaíso,1.0,600000
+344,29-05-2026,Teclado,,2.0,250000
+345,01-07-2026,Monitor,Valparaíso,3.0,600000
+346,30-04-2026,Monitor,Concepción,3.0,250000
+347,07-07-2026,Laptop,Valparaíso,4.0,600000
+348,19-04-2026,Audifonos,Valparaíso,2.0,600000
+349,22-06-2026,Teclado,Valparaíso,3.0,15000
+350,24-05-2026,Audifonos,,2.0,40000
+351,30-06-2026,Audifonos,Concepción,2.0,25000
+352,04-05-2026,Mouse,santiago ,1.0,40000
+353,04-06-2026,Laptop,,4.0,40000
+354,27-04-2026,Mouse,Valparaíso,4.0,25000
+355,16-06-2026,Laptop,santiago ,,600000
+356,10-01-2026,Mouse,Concepción,2.0,250000
+357,17-01-2026,Mouse,Santiago,,250000
+358,08-03-2026,Audifonos,Concepción,3.0,15000
+359,08-04-2026,Monitor,Concepción,,600000
+360,14-02-2026,Teclado,Santiago,4.0,15000
+361,06-07-2026,Laptop,Valparaíso,4.0,250000
+362,17-03-2026,Laptop,Concepción,2.0,250000
+363,31-03-2026,Teclado,,1.0,250000
+364,31-05-2026,Monitor,Santiago,1.0,25000
+365,05-02-2026,Teclado,santiago ,4.0,25000
+366,10-07-2026,Mouse,santiago ,2.0,600000
+367,16-01-2026,Audifonos,Santiago,3.0,25000
+368,18-03-2026,Monitor,santiago ,3.0,25000
+369,07-06-2026,Teclado,Santiago,,600000
+370,12-06-2026,Monitor,Concepción,,25000
+371,19-06-2026,Teclado,,3.0,40000
+372,23-05-2026,Mouse,,,15000
+373,25-06-2026,Mouse,Santiago,3.0,15000
+374,15-07-2026,Mouse,,1.0,40000
+375,31-05-2026,Mouse,,,25000
+376,12-06-2026,Monitor,Valparaíso,3.0,25000
+377,02-07-2026,Teclado,Concepción,,15000
+378,30-05-2026,Teclado,santiago ,1.0,250000
+379,20-04-2026,Teclado,Concepción,4.0,40000
+380,10-03-2026,Teclado,Concepción,1.0,25000
+381,12-03-2026,Teclado,Valparaíso,2.0,40000
+382,10-03-2026,Teclado,Valparaíso,3.0,250000
+383,28-04-2026,Monitor,Concepción,1.0,25000
+384,28-01-2026,Teclado,Valparaíso,4.0,40000
+385,18-07-2026,Monitor,Concepción,3.0,600000
+386,23-06-2026,Teclado,santiago ,4.0,25000
+387,03-01-2026,Laptop,santiago ,1.0,250000
+388,14-07-2026,Audifonos,,3.0,25000
+389,11-06-2026,Monitor,Santiago,3.0,250000
+390,13-01-2026,Laptop,Valparaíso,2.0,25000
+391,03-07-2026,Monitor,Santiago,4.0,250000
+392,24-06-2026,Monitor,Santiago,1.0,40000
+393,09-04-2026,Teclado,Santiago,3.0,40000
+394,28-01-2026,Monitor,Valparaíso,2.0,600000
+395,08-02-2026,Teclado,,4.0,40000
+396,13-02-2026,Teclado,Concepción,,15000
+397,23-04-2026,Mouse,,1.0,25000
+398,19-03-2026,Teclado,,2.0,15000
+399,19-07-2026,Monitor,santiago ,2.0,600000
+400,10-05-2026,Monitor,Santiago,1.0,600000
+401,30-01-2026,Teclado,santiago ,3.0,250000
+402,18-07-2026,Audifonos,santiago ,3.0,40000
+403,24-02-2026,Monitor,,1.0,600000
+404,11-02-2026,Laptop,Valparaíso,2.0,250000
+405,17-06-2026,Teclado,santiago ,3.0,25000
+406,19-02-2026,Laptop,santiago ,1.0,15000
+407,31-05-2026,Laptop,Concepción,,40000
+408,17-06-2026,Laptop,Valparaíso,3.0,15000
+409,04-05-2026,Mouse,Concepción,1.0,40000
+410,09-06-2026,Teclado,Concepción,1.0,15000
+411,28-05-2026,Audifonos,santiago ,3.0,600000
+412,10-02-2026,Teclado,Concepción,,600000
+413,14-06-2026,Audifonos,Valparaíso,1.0,250000
+414,04-07-2026,Laptop,Valparaíso,3.0,600000
+415,11-06-2026,Mouse,,1.0,40000
+416,05-06-2026,Mouse,santiago ,3.0,600000
+417,19-07-2026,Mouse,Concepción,,25000
+418,25-05-2026,Mouse,Santiago,3.0,40000
+419,09-06-2026,Teclado,santiago ,2.0,25000
+420,06-02-2026,Laptop,Concepción,4.0,25000
+421,08-06-2026,Mouse,Santiago,4.0,250000
+422,26-04-2026,Mouse,Santiago,2.0,600000
+423,14-01-2026,Teclado,Valparaíso,2.0,40000
+424,25-05-2026,Teclado,Valparaíso,4.0,600000
+425,25-01-2026,Audifonos,Santiago,3.0,250000
+426,02-04-2026,Audifonos,,,25000
+427,04-03-2026,Audifonos,Valparaíso,,15000
+428,19-05-2026,Laptop,santiago ,1.0,25000
+429,21-06-2026,Teclado,Santiago,,15000
+430,08-03-2026,Monitor,Valparaíso,2.0,600000
+431,19-05-2026,Mouse,Santiago,3.0,15000
+432,18-06-2026,Mouse,,3.0,25000
+433,05-07-2026,Mouse,santiago ,3.0,40000
+434,05-07-2026,Mouse,Santiago,2.0,25000
+435,12-06-2026,Monitor,,2.0,15000
+436,03-02-2026,Teclado,Valparaíso,,250000
+437,16-02-2026,Laptop,Valparaíso,,600000
+438,27-06-2026,Mouse,Concepción,2.0,25000
+439,11-07-2026,Audifonos,,,25000
+440,06-02-2026,Monitor,Santiago,2.0,15000
+441,22-01-2026,Mouse,,3.0,25000
+442,10-04-2026,Monitor,Valparaíso,3.0,600000
+443,02-02-2026,Teclado,,2.0,250000
+444,22-05-2026,Laptop,Santiago,4.0,15000
+445,23-04-2026,Laptop,Valparaíso,1.0,25000
+446,10-05-2026,Laptop,,,15000
+447,27-01-2026,Mouse,Concepción,4.0,600000
+448,09-03-2026,Audifonos,Concepción,1.0,600000
+449,24-03-2026,Laptop,santiago ,,600000
+450,16-01-2026,Monitor,Valparaíso,1.0,600000
+451,04-05-2026,Mouse,Valparaíso,1.0,600000
+452,17-07-2026,Monitor,santiago ,,40000
+453,03-05-2026,Laptop,santiago ,1.0,40000
+454,22-01-2026,Teclado,,2.0,40000
+455,23-04-2026,Audifonos,,2.0,40000
+456,27-05-2026,Audifonos,Valparaíso,4.0,600000
+457,20-06-2026,Monitor,Concepción,3.0,15000
+458,12-05-2026,Teclado,,,250000
+459,29-06-2026,Monitor,Concepción,2.0,40000
+460,15-07-2026,Mouse,Santiago,4.0,250000
+461,16-05-2026,Mouse,,,250000
+462,17-07-2026,Audifonos,Valparaíso,4.0,40000
+463,12-03-2026,Teclado,,,600000
+464,11-04-2026,Laptop,santiago ,2.0,25000
+465,03-06-2026,Teclado,Concepción,,15000
+466,09-02-2026,Audifonos,Concepción,,25000
+467,04-03-2026,Audifonos,Valparaíso,,40000
+468,21-04-2026,Audifonos,santiago ,3.0,250000
+469,04-02-2026,Mouse,Concepción,1.0,250000
+470,03-06-2026,Laptop,Santiago,,15000
+471,10-04-2026,Mouse,,,25000
+472,16-02-2026,Teclado,santiago ,4.0,40000
+473,03-01-2026,Laptop,Valparaíso,1.0,600000
+474,03-03-2026,Laptop,santiago ,1.0,600000
+475,06-02-2026,Audifonos,santiago ,2.0,40000
+476,17-05-2026,Mouse,Concepción,,15000
+477,11-05-2026,Audifonos,,3.0,250000
+478,25-06-2026,Monitor,Valparaíso,,15000
+479,15-01-2026,Laptop,,,40000
+480,22-04-2026,Monitor,santiago ,3.0,600000
+481,24-05-2026,Monitor,,1.0,40000
+482,10-04-2026,Audifonos,,,25000
+483,03-02-2026,Mouse,Santiago,2.0,250000
+484,12-05-2026,Teclado,Valparaíso,2.0,25000
+485,23-06-2026,Laptop,santiago ,3.0,250000
+486,16-06-2026,Mouse,Concepción,2.0,40000
+487,11-04-2026,Mouse,,,600000
+488,30-04-2026,Audifonos,Concepción,,40000
+489,15-01-2026,Teclado,Valparaíso,2.0,600000
+490,07-05-2026,Audifonos,Concepción,4.0,15000
+491,28-03-2026,Teclado,Concepción,3.0,25000
+492,23-02-2026,Laptop,Concepción,4.0,15000
+493,14-01-2026,Audifonos,Valparaíso,4.0,250000
+494,22-05-2026,Monitor,,4.0,40000
+495,07-03-2026,Audifonos,Concepción,4.0,600000
+496,10-06-2026,Mouse,Valparaíso,4.0,600000
+497,27-06-2026,Monitor,Valparaíso,,250000
+498,01-07-2026,Laptop,Valparaíso,3.0,40000
+499,16-05-2026,Laptop,Valparaíso,,40000
+500,30-01-2026,Laptop,Valparaíso,2.0,600000
+1,22-02-2026,Monitor,Santiago,1.0,600000
+2,16-05-2026,Monitor,santiago ,4.0,40000
+3,26-03-2026,Audifonos,,4.0,40000
+4,06-05-2026,Monitor,santiago ,,40000
+5,27-06-2026,Teclado,,2.0,250000
+6,29-06-2026,Mouse,Santiago,4.0,15000
+7,04-01-2026,Audifonos,Valparaíso,,600000
+8,16-03-2026,Laptop,Concepción,,40000
+9,10-07-2026,Laptop,Valparaíso,2.0,250000
+10,30-04-2026,Monitor,Concepción,1.0,15000

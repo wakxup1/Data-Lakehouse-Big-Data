@@ -12,7 +12,7 @@ from pyspark.sql.functions import col,trim,initcap, to_date
 spark = SparkSession.builder.appName("Limpieza").getOrCreate()
 #getOrCreate = crea o reutliza la sesion.
 
-df = spark.read.csv("Data-Lakehouse-Big-Data/data/raw/ventas.csv", header = True, inferSchema = True)
+df = spark.read.csv("Data-Lakehouse-Big-Data/data/bronze/ventas.csv", header = True, inferSchema = True)
 #Esto leera el archivo ventas.CSV en raw conviertiendolo en un DataFrame de spark
 # header = True Indicar que los nombres de las columnas y no los datos
 # inferSchema = True Interpreta el texto segun lo que sea similar a python "1" = 1 int
@@ -32,7 +32,7 @@ df_limpio = (
     # por su precio unitario y la cantidad registrada
 )
 
-df_limpio.write.mode("overwrite").parquet("Data-Lakehouse-Big-Data/data/processed/ventas")
+df_limpio.write.mode("overwrite").parquet("Data-Lakehouse-Big-Data/data/silver/ventas")
 # .write: escribir el data frame en disco
 # mode("overwrite"): si existe la carpeta la reemplaza
 # .parquet("ruta"): guarda el archivo en formato parquet

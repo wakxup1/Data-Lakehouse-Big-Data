@@ -5,7 +5,7 @@ from pyspark.sql.functions import sum, desc
 spark = SparkSession.builder.appName("ConsumoGold").getOrCreate()
 
 # 2. Leer los datos limpios desde la zona Silver (Parquet)
-df_silver = spark.read.parquet("Data-Lakehouse-Big-Data/data/processed/ventas")
+df_silver = spark.read.parquet("Data-Lakehouse-Big-Data/data/silver/ventas")
 
 print("Esquema de los datos limpios:")
 df_silver.printSchema()
