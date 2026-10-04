@@ -5,7 +5,7 @@ from pyspark.sql.functions import sum, desc
 spark = SparkSession.builder.appName("ConsumoGold").getOrCreate()
 
 # 2. Leer los datos limpios desde la zona Silver (Parquet)
-df_silver = spark.read.parquet("data/processed/ventas")
+df_silver = spark.read.parquet("Data-Lakehouse-Big-Data/data/processed/ventas")
 
 print("Esquema de los datos limpios:")
 df_silver.printSchema()
@@ -21,7 +21,7 @@ print("Resultados de la Zona Gold (Ingresos por Ciudad):")
 df_gold.show()
 
 # 4. Guardar los datos modelados en la zona Gold
-df_gold.write.mode("overwrite").parquet("data/gold/ventas_por_ciudad")
+df_gold.write.mode("overwrite").parquet("Data-Lakehouse-Big-Data/data/gold/ventas_por_ciudad")
 print("¡Laboratorio completado! Datos modelados guardados en data/gold/ventas_por_ciudad")
 
 spark.stop()

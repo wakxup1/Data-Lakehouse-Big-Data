@@ -10,7 +10,7 @@ df_silver.show(10)
 
 # 3. Leer y mostrar los datos de la Zona Gold (Modelo final)
 print("--- ZONA GOLD: Ingresos totales por ciudad ---")
-df_gold = spark.read.parquet("data/gold/ventas_por_ciudad")
+df_gold = spark.read.parquet("Data-Lakehouse-Big-Data/data/gold/ventas_por_ciudad")
 df_gold.show()
 
 spark.stop()
